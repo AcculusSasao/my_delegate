@@ -1,6 +1,6 @@
 # Tensorflow Lite Delegate sample code
 
-解説ブログ: 
+解説ブログ: https://link.medium.com/8nApnBGjyHb
   
 TFLiteのデリゲートを自作するサンプルコードです。  
 参照:  https://www.tensorflow.org/lite/performance/implementing_delegate  

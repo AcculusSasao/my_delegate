@@ -6,6 +6,7 @@ TFROOT=../../../../../
 cd $TFROOT
 bazel build tensorflow/lite:libtensorflowlite.so
 bazel build tensorflow/lite/tools/benchmark:benchmark_model
+cd -
 
 # download model
 #  https://github.com/tensorflow/models/blob/master/research/slim/nets/mobilenet_v1.md
